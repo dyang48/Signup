@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271440537255",
+    "firebase_url": "https://takehome09-c2899.firebaseio.com",
+    "project_id": "takehome09-c2899",
+    "storage_bucket": "takehome09-c2899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271440537255:android:3da95e62148570f5459d82",
+        "android_client_info": {
+          "package_name": "com.example.takehome09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271440537255-3dl77he3v5sh3gcoeoc7be9r731h261v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takehome09",
+            "certificate_hash": "4bf883f6b699a99f5664bc269d4fcfec1d3b4401"
+          }
+        },
+        {
+          "client_id": "271440537255-epf9pohm6jc4neeafabtlfua9f7igj68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qQFkVoQFW3xuPW0Si6lwmPFCMgfnFJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271440537255-epf9pohm6jc4neeafabtlfua9f7igj68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
